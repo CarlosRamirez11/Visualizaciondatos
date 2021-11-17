@@ -1,0 +1,25 @@
+1.Escribe el nombre que caracteriza el conjunto de datos
+    -New York City Leading Causes of Death
+    
+2.Escribe el organismo que lo generó
+    -NYC OpenData
+    
+3.Incluye un enlace de Internet de dónde se pueden descargar en línea y envíalo como una hoja de cálculo junto con su informe correspondiente.
+    -A travez de la pagina https://data.cityofnewyork.us/Health/New-York-City-Leading-Causes-of-Death/jb7j-dtam se consiguio la base de datos, esta fue una de las paginas que nos proporciono el    profesor para buscar una base que nos llame la atención
+    
+4.Describe el conjunto de datos. ¿Qué datos contiene?
+    -Es una base de datos con aproximadamente 1520 columnas en las que se incluyen titulos como 'Year' 'Leading Causes' 'Sex' 'Race Ethnicity' 'deaths' entre otras cuantas todas variables con distintas entradas de datos, es decir las causas de muerte, el sexo de las personas en especifico, el numero de muertes, etc. Todo esto con una buena organizacion para en etapas posteriores poder hacer el analisis que se nos pida.
+    
+5.Normalmente, los datos tienen un identificador que se incluye en el encabezado de la columna correspondiente. ¿Qué identificador no tiene claro su significado?¿Cómo podrías investigarlo?
+    - Afortunadamente todos los encabezados se pueden entender, estan en el idioma ingles por lo que no causa un problema entenderlas, todas estas son palabras en concreto muy claras y faciles de interpretar.
+    
+6.¿Cuáles son algunas de las preguntas podrías responder con estos datos? Enumera al menos tres (no respondas a las preguntas).
+    -¿Cual fue el año en el que se registraron mas muertes por influeza?
+    -¿Cual es el indice de mortalidad de la diabetes?
+    -¿Cual es la enfermedad o razon que causa mas muertes?
+    
+7.Pregunta de investigación (de interés). 
+    -¿Tiene algo que ver la raza etnia de las personas relacionado con las muertes?
+    
+8. ¿Qué stakeholder (empresa, sector de la sociedad, organismo descentralizado, gobierno, etc.) estaría interesado en las preguntas que identificaste en el punto 6?
+    -El sector de la salud en este caso de Estados Unidos, los hospitales y las personas encargadas de ver por el bien comun de la sociedad.
